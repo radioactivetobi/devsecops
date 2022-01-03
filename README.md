@@ -17,7 +17,7 @@ A repo created to document my devesecops journey
 
 4. Static Application Security Tests (SAST)
 * Insider CLI
-* NodeJsScan
+* [NodeJsScan](/Installing%20SAST%20Tools.md)
 * Sonarqube
 
 5. Software Composition Analyis & Dependency Check
