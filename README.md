@@ -8,8 +8,8 @@ A repo created to document my devesecops journey
 
 2. CI\CD Orchestration
 * [Jenkins](/jenkins-installation.md)
-* AWS Codepipeline
-* 
+* [AWS Codepipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials.html)
+* [Gitlab CI\CD](https://docs.gitlab.com/ee/ci/quick_start/)
 
 3. Secrets Scanning
 * Truffle Hog
