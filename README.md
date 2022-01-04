@@ -38,7 +38,7 @@ A repo created to document my devesecops journey
 - [Managing a DevSecOps Pipeline with Secure Development and Operations](https://devsecops-pipelines.ayushpriya.tech/)
 - [DevSecOps – Static Analysis SAST with Jenkins Pipeline](https://digitalvarys.com/devsecops-static-analysis-sast-with-jenkins-pipeline/)
 - [Clear Instructions on How to Build a DevSecOps Pipeline in AWS](https://hackernoon.com/devsecops-introduction-clear-instructions-on-how-to-build-a-pipeline-in-aws-part-1-5nx334e)
-- 
+- [Top 282 Devsecops Open Source Projects on Github](https://awesomeopensource.com/projects/devsecops)
 
 
 
