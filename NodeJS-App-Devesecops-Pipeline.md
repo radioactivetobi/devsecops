@@ -1,5 +1,5 @@
-# Introduction
-A simple jenkins pipleine script to run; Secrets Scan, SAST, SCA and Dependency Checks against a Vulerable NodeJS application. Copy the script and save it into a Jenkinsfile in the root directory of a git repo.
+# 
+A simple jenkins pipleine script to run; Secrets scan, SAST, SCA and Dependency checks against a vulnerable NodeJS application. Copy the script and save it into a Jenkinsfile in the root directory of a git repo.
 
 ````bash
 pipeline {
