@@ -14,6 +14,7 @@ A repo created to document my devesecops journey
 3. Secrets Scanning
 * Truffle Hog
 * Git-Secrets
+* Gitleaks
 
 4. Static Application Security Tests (SAST)
 * Insider CLI
